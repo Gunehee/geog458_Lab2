@@ -8,19 +8,19 @@
 
 # Word Cloud 1
 
-![](img\WordArt1.png)
+![Word Cloud 1](img/WordArt1.png)
 
 Download the csv data file 1 [here](asset/Lab2CSV1.csv)
 
 # Word Cloud 2
 
-![Word Cloud 2](img\WordArt2.png)
+![Word Cloud 2](img/WordArt2.png)
 
 Download the csv data file 2 [here](asset/Lab2CSV2.csv)
 
 # Word Cloud 3
 
-![Word Cloud 3](img\WordArt3.png)
+![Word Cloud 3](img/WordArt3.png)
 
 Download the csv data file 3 [here](asset/Lab2CSV3.csv)
 
