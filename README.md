@@ -2,18 +2,13 @@
 2) food, co, cat, gas, ye, girl, lol, ass, fuck, miss
 3) food, co, Ydbi, Hwcr, Uxkwsxh, TI, Wzz, Yd, Fcffiipf, Knottybadwolf, Gkghkowfl
 왜 이 텍스트 지웠는지 설명
-
-
-
-다하고 여기에 이미지와 url만들어서 넣기 (Lab 1 에서 한거처럼)
-
 각 이미지 마다 narrative쓰기 (Markdown Style로)
 ----------------------------------------------------------------
 
 
 # Word Cloud 1
 
-![Word Cloud 1 or No](img\WordArt1.png)
+![](img\WordArt1.png)
 
 Download the csv data file 1 [here](asset/Lab2CSV1.csv)
 
